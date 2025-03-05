@@ -65,7 +65,7 @@ export default function Hero() {
               className="rounded-full"
             >
               <Link
-                href="https://github.com"
+                href="https://github.com/DevNexEssam"
                 target="_blank"
                 aria-label="GitHub"
               >
@@ -79,25 +79,11 @@ export default function Hero() {
               className="rounded-full"
             >
               <Link
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/essam-mohamed-829b27342/"
                 target="_blank"
                 aria-label="LinkedIn"
               >
                 <Linkedin className="h-5 w-5" />
-              </Link>
-            </Button>
-            <Button
-              asChild
-              variant="outline"
-              size="icon"
-              className="rounded-full"
-            >
-              <Link
-                href="https://twitter.com"
-                target="_blank"
-                aria-label="Twitter"
-              >
-                <Twitter className="h-5 w-5" />
               </Link>
             </Button>
             <Button

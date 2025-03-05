@@ -35,28 +35,28 @@ const skills = [
     title: "State Management",
     description:
       "Handling application state efficiently for scalable applications.",
-    technologies: ["Context API", "Zustand", "Redux Toolkit"],
+    technologies: ["Context API", "Zustand"],
   },
   {
     icon: <Terminal className="h-8 w-8 mb-4 text-primary" />,
     title: "Back-End Integration",
     description:
       "Connecting front-end applications to databases and back-end services.",
-    technologies: ["Mongoose", "REST APIs", "GraphQL", "Node.js"],
+    technologies: ["Mongoose", "REST APIs"],
   },
   {
     icon: <Wrench className="h-8 w-8 mb-4 text-primary" />,
     title: "Development Tools",
     description:
       "Optimizing workflows with modern development and build tools.",
-    technologies: ["Vite", "Webpack", "Babel", "ESLint", "Prettier"],
+    technologies: ["Webpack", "ESLint", "Prettier"],
   },
   {
     icon: <Layers className="h-8 w-8 mb-4 text-primary" />,
     title: "Version Control & Deployment",
     description:
       "Managing code collaboration and deploying applications efficiently.",
-    technologies: ["Git", "GitHub", "Vercel", "CI/CD"],
+    technologies: ["Git", "GitHub", "Vercel"],
   },
 ];
 

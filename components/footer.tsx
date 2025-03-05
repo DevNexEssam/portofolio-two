@@ -5,9 +5,6 @@ export default function Footer() {
         <p className="">
           © {new Date().getFullYear()} Essam Mohamed. All rights reserved.
         </p>
-        <p className="text-sm  mt-2">
-          Designed and built with ❤️ using Next.js and Tailwind CSS
-        </p>
       </div>
     </footer>
   );

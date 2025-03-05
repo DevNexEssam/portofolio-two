@@ -54,12 +54,12 @@ const workExperience = [
 
 const education = [
   {
-    degree: "Bachelor's Degree in Computer Science",
-    institution: "Alexandria University",
+    degree: "Bachelor's Degree in Computer Science (In Progress)",
+    institution: "Borg El Arab Technological University",
     location: "Alexandria, Egypt",
-    period: "2021 - 2025",
+    period: "2022 - Present",
     description:
-      "Focused on software development, web technologies, and front-end frameworks. Built various academic projects related to web applications and AI.",
+    "Currently studying computer science with a focus on front-end development, web technologies, and modern frameworks. Working on various academic projects related to web applications and AI."
   },
 ];
 

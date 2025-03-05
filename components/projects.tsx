@@ -10,69 +10,65 @@ import Link from "next/link";
 
 const projects = [
   {
-    title: "E-Commerce Platform",
+    title: "DashMinds",
     description:
-      "A full-featured e-commerce platform with product listings, cart functionality, and secure checkout.",
-    image:
-      "/2004.i518.011_responsive landing page website mobile UI app templates.jpg",
-    technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Stripe"],
-    liveUrl: "https://example.com",
-    githubUrl: "https://github.com",
+      "Designed and developed a dashboard interface for employee and department management",
+    image: "/dashMinds.png",
+    technologies: ["Next.js", "Tailwind CSS" ,"MongoDB"],
+    liveUrl: "https://dashminds-one.vercel.app/",
+    githubUrl: "https://github.com/DevNexEssam/dashminds-one",
     featured: true,
   },
   {
-    title: "Dashboard UI",
+    title: "Staffly",
     description:
-      "An admin dashboard with data visualization, user management, and real-time analytics.",
-    image:
-      "/2004.i518.011_responsive landing page website mobile UI app templates.jpg",
-    technologies: ["React", "Redux", "Chart.js", "Material UI"],
-    liveUrl: "https://example.com",
-    githubUrl: "https://github.com",
+      "A management dashboard for employees with real-time analytics and user access control.",
+    image: "/staffly.png",
+    technologies: ["Next.js", "Tailwind CSS" ,"MongoDB"],
+    liveUrl: "https://staffly-nu.vercel.app/",
+    githubUrl: "https://github.com/DevNexEssam/staffly",
     featured: true,
   },
   {
-    title: "Social Media App",
+    title: "Portfolio",
     description:
-      "A social networking application with real-time messaging, post sharing, and user profiles.",
-    image:
-      "/2004.i518.011_responsive landing page website mobile UI app templates.jpg",
-    technologies: ["Next.js", "Firebase", "Tailwind CSS", "SWR"],
-    liveUrl: "https://example.com",
-    githubUrl: "https://github.com",
+      "A modern front-end portfolio showcasing projects, skills, and experiences with a responsive and interactive design.",
+    image: "/frontend-portfolio.png",
+    technologies: ["Next.js", "Tailwind CSS", "SWR"],
+    liveUrl: "https://portofolio-main-ebon.vercel.app/",
+    githubUrl: "https://github.com/DevNexEssam/portofolio-main",
     featured: true,
   },
   {
-    title: "Portfolio Website",
+    title: "Travel Agents",
     description:
-      "A responsive portfolio website showcasing projects and skills with a modern design.",
-    image:
-      "/2004.i518.011_responsive landing page website mobile UI app templates.jpg",
-    technologies: ["React", "Framer Motion", "Styled Components"],
-    liveUrl: "https://example.com",
-    githubUrl: "https://github.com",
+      "A travel agency website showcasing services, destinations, and booking options with a modern and user-friendly design.",
+    image: "/travel-agents.png",
+    technologies: ["Next.js", "Tailwind CSS", "Styled Components"],
+    liveUrl: "https://travel-agents-ashen.vercel.app/",
+    githubUrl: "https://github.com/DevNexEssam/travel-agents",
     featured: false,
   },
   {
-    title: "Weather Application",
+    title: "PassMate",
     description:
-      "A weather forecast application with location detection and detailed weather information.",
+      "A simple and secure password generator that creates strong, customizable passwords with various complexity options.",
     image:
-      "/2004.i518.011_responsive landing page website mobile UI app templates.jpg",
-    technologies: ["JavaScript", "OpenWeather API", "CSS3"],
-    liveUrl: "https://example.com",
-    githubUrl: "https://github.com",
+      "/pass-mate.png",
+    technologies: ["JavaScript", "Tailwind CSS"],
+    liveUrl: "https://pass-mate.vercel.app/",
+    githubUrl: "https://github.com/DevNexEssam/PassMate",
     featured: false,
   },
   {
-    title: "Task Management Tool",
+    title: "Portfolio",
     description:
-      "A productivity application for managing tasks, projects, and deadlines with team collaboration features.",
+      "A personal portfolio website showcasing projects, skills, and experience with a modern and responsive design.",
     image:
-      "/2004.i518.011_responsive landing page website mobile UI app templates.jpg",
-    technologies: ["React", "Node.js", "MongoDB", "Socket.io"],
-    liveUrl: "https://example.com",
-    githubUrl: "https://github.com",
+      "/portofolio2.png",
+      technologies: ["Next.js", "Tailwind CSS"],
+    liveUrl: "https://dev-nex.vercel.app/",
+    githubUrl: "https://github.com/DevNexEssam/dev-nex",
     featured: false,
   },
 ];
